@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HackerNews Reader</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header>
+    <h1>📰 HackerNews Reader</h1>
+    <div id="toast" class="toast hidden"></div>
+  </header>
+  <nav>
+    <button data-feed="newstories" onclick="switchFeed('newstories')" class="active">Stories</button>
+    <button data-feed="jobstories" onclick="switchFeed('jobstories')">Jobs</button>
+    <button data-feed="toppolls"   onclick="switchFeed('toppolls')">Polls</button>
+  </nav>
+  <main id="feed"></main>
+  <div id="loader" class="loader-box">
+    <div class="spinner"></div>
+  </div>
+  <script type="module" src="./init.js"></script>
+</body>
+</html>
