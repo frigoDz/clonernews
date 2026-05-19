@@ -31,7 +31,7 @@ npx serve .
 ```
 Then open `http://localhost:3000`
 ---
-you can alos do `https://clonernews.netlify.app`
+you can also open it with this link (it's live hosted) `https://clonernews.netlify.app`
  
 ## Features
  
