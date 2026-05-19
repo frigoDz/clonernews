@@ -30,9 +30,8 @@ Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ri
 npx serve .
 ```
 Then open `http://localhost:3000`
-you can alos do 'https://clonernews.netlify.app'
- 
 ---
+you can alos do `https://clonernews.netlify.app`
  
 ## Features
  
