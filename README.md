@@ -30,6 +30,7 @@ Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ri
 npx serve .
 ```
 Then open `http://localhost:3000`
+you can alos do 'https://clonernews.netlify.app'
  
 ---
  
@@ -46,5 +47,6 @@ Then open `http://localhost:3000`
  
 | Name | GitHub | Files |
 |---|---|---|
-| aelyoussef | [@ayoussfi605-crypto](https://github.com/ayoussfi605-crypto) | `api.js`, `init.js` |
-| hzmarrou | [@frigoDz](https://github.com/frigoDz) | `index.html`, `style.css`, `ui.js` |
+| hzmarrou | [@frigoDz](https://github.com/ayoussfi605-crypto) | `api.js`, `init.js` |
+| aelyoussef | [@ayoussfi605-crypto](https://github.com/frigoDz) | `index.html`, `style.css`, `ui.js` |
+
